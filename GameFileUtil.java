@@ -1,4 +1,4 @@
-package hw3;
+package game;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
