@@ -1,4 +1,4 @@
-package hw3;
+package game;
 
 import api.Tile;
 
